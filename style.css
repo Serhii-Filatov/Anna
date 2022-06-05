@@ -368,6 +368,9 @@ template {
   background: linear-gradient(to right, #f00, #ff0, #0f0, #00f, #f00, #f0f);
   mix-blend-mode: color;
 }
+.audio {
+  display: none;
+}
 
 .video {
   object-fit: cover;
